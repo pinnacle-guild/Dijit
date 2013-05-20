@@ -25,7 +25,7 @@ A blueprint is a plain object. The following serves as an example:
         content: "registerAccountCharacterDetailForm"
     }
 }
-´´´
+```
 
 ### Dijit/Layouts
 Layouts for pages.
